@@ -114,4 +114,3 @@ expo start
 * The Express.js server handles these routes and performs **CRUD operations** on MySQL.
 * **User authentication** is managed using **JWT tokens**, stored on the client.
 * Data like **cart items, orders, and user info** are dynamically fetched from the database.
->>>>>>> 4a6fb78acd1555ef0de2eab8db1b203085eb980a
