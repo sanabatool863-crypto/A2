@@ -1,10 +1,16 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\src",
     "\\src\\components",
     "\\src\\screens"
   ],
   "SelectedNode": "\\src\\screens\\ProductDetails.js",
+=======
+    ""
+  ],
+  "SelectedNode": "\\README.md",
+>>>>>>> 4a6fb78acd1555ef0de2eab8db1b203085eb980a
   "PreviewInSolutionExplorer": false
 }

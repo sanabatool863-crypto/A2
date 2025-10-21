@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -21,3 +22,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+frontend/node_modules/
+frontend/.vs/
+frontend/
+>>>>>>> 4a6fb78acd1555ef0de2eab8db1b203085eb980a
