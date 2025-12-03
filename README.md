@@ -4,6 +4,12 @@ A **full-stack E-Commerce application** built using **React Native (Expo)** for 
 
 The app enables users to **browse products, view details, add items to the cart, manage profiles, and place orders** seamlessly.
 
+🎬 YouTube Demo
+
+Watch the full walkthrough of the E-Commerce App:
+
+👉 YouTube Video: https://youtu.be/YGPZpwqeAug?si=nmtw7hD-PhbXwn9P
+
 ## Features
 
 * **Home Screen** – Browse products, search, and explore categories.
